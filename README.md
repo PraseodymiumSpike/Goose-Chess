@@ -1,7 +1,7 @@
 # Goose-Chess
 a program in which you can play my chess variant Goose Chess
 
-Use the compatible version if you don't like the normal version! The Goose is represented by an "@" and the Egg by a "*".
+I recommend using the compatible version! The Goose is represented by an "@" and the Egg by a "*". The King, Queen, Chancellor, Rook, Bishop, Knight, and Pawn are represented by "K", "Q", "C", "R", "B", "N", and "P" if they belong to White and the lowercase versions of the letters if they belong to Black.
 
 rules: https://www.chess.com/forum/view/site-feedback/new-variant-idea-goose-chess
 
