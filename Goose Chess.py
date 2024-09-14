@@ -1,11 +1,11 @@
-#for Python 3.11.0
+#for Python 3.12.6
 import tkinter
 import copy
 root=tkinter.Tk()
 root.title("Goose Chess")
 white_pieces="♔♕🩏♖♗♘♙" #King, Queen, Chancellor, Rook, Bishop, Knight, Pawn
 black_pieces="♚♛🩒♜♝♞♟" #same as above
-goose="\U0001fabf"
+goose="\U0001316c"
 egg="\U0001f95a"
 player="White"
 state="accepting starting Square for Piece"
